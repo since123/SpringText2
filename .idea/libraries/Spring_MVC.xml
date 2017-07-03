@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/access-bridge-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-aop-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-aspects-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-beans-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-context-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-context-support-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-core-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-expression-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-instrument-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-instrument-tomcat-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-jdbc-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-jms-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-messaging-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-orm-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-oxm-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-test-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-tx-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-web-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-webmvc-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-webmvc-portlet-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MVCStart/lib/spring-websocket-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-tomcat-8.5.15-windows-x64/apache-tomcat-8.5.15/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commonLibs/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commonLibs/commons-fileupload-1.3.2-bin/lib/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commonLibs/commons-io-2.5/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commonLibs/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commonLibs/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
